@@ -1,5 +1,6 @@
 # filter-banks-subband-coding-and-wavelets
-implement  2-channel analysis and synthesis filter bank along with quantization
+implement  2-channel analysis and synthesis filter bank along with quantization   
+(completed with Sajani Pallegoda Vithana)
 
 ## The main file that use the following function to implement the task.  
 ### AnaBank_2Ch----A function implements the analysis filters in QMF.  
